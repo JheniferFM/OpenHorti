@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Hortifrúti</title>
+    <link rel="stylesheet" href="cardapio.css"> <!-- Link para o arquivo CSS -->
+</head>
+<body>
+    <header>
+        <h1>OPenHorti</h1> <!-- Título da página -->
+    </header>
+
+    <main>
+        <section class="produtos">
+            <!-- Produto 1: Alface -->
+            <div class="produto">
+                <img src="../imagens/alface.jpg" alt="Alface"> <!-- Imagem do produto -->
+                <h2>Alface</h2> <!-- Nome do produto -->
+                <p>R$ 1,50/un</p> <!-- Preço do produto -->
+                <svg class="barcode"></svg> <!-- Elemento para o código de barras -->
+            </div>
+
+            <!-- Produto 2: Cenoura -->
+            <div class="produto">
+                <img src="../imagens/cenoura.jpg" alt="Cenoura">
+                <h2>Cenoura</h2>
+                <p>R$ 2,00/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 3: Laranja -->
+            <div class="produto">
+                <img src="../imagens/laranja.jpg" alt="Laranja">
+                <h2>Laranja</h2>
+                <p>R$ 4,00/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 4: Maçã -->
+            <div class="produto">
+                <img src="../imagens/maça.jpg" alt="Maçã">
+                <h2>Maçã</h2>
+                <p>R$ 5,00/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 5: Melancia -->
+            <div class="produto">
+                <img src="../imagens/melancia.jpg" alt="Melancia">
+                <h2>Melancia</h2>
+                <p>R$ 6,00/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 6: Morango -->
+            <div class="produto">
+                <img src="../imagens/morango.jpg" alt="Morango">
+                <h2>Morango</h2>
+                <p>R$ 8,00/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 7: Tomate -->
+            <div class="produto">
+                <img src="../imagens/tomate.jpg" alt="Tomate">
+                <h2>Tomate</h2>
+                <p>R$ 4,50/kg</p>
+                <svg class="barcode"></svg>
+            </div>
+
+            <!-- Produto 8: Uva -->
+            <div class="produto">
+                <img src="../imagens/uva.jpg" alt="Uva">
+                <h2>Uva</h2>
+                <p>R$ 3,00/un</p>
+                <svg class="barcode"></svg>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Hortifrúti Fresh</p> <!-- Rodapé da página -->
+    </footer>
+
+    <!-- Biblioteca para gerar códigos de barras -->
+    <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+    <!-- Script JavaScript personalizado -->
+    <script src="cardapio.js"></script>
+</body>
+</html>
