@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Logo openHorti vertical.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="2"
+     inkscape:cx="102"
+     inkscape:cy="135.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <rect
+       x="36.960428"
+       y="132.7452"
+       width="242.92164"
+       height="29.748467"
+       id="rect10" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-0.14179135 : 150.79685 : 1"
+       inkscape:vp_y="5.8214874 : 999.98305 : 0"
+       inkscape:vp_z="299.85313 : 149.0504 : 1"
+       inkscape:persp3d-origin="149.56459 : 99.924474 : 1"
+       id="perspective3" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada 2">
+    <ellipse
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;shape-inside:url(#rect10);display:inline;opacity:1;mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#008000;stroke-width:2.81188;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="path23"
+       cx="150"
+       cy="150"
+       rx="114.70644"
+       ry="30.946131"
+       transform="translate(1.3961581e-6)" />
+  </g>
+  <text
+     xml:space="preserve"
+     id="text9"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);opacity:1;mix-blend-mode:normal;fill:#ffffff;stroke:#008000;stroke-width:1.00011;stroke-dasharray:none"
+     transform="matrix(3.5433007,0,0,2.5777566,-78.47023,-211.36086)"
+     inkscape:transform-center-x="1.7956082"
+     inkscape:transform-center-y="-0.44129983"><tspan
+       x="36.960938"
+       y="143.17252"
+       id="tspan9"><tspan
+         style="stroke:#ff6600"
+         id="tspan1">o</tspan><tspan
+         style="stroke:#ff0000"
+         id="tspan2">p</tspan><tspan
+         style="stroke:#ffcc00"
+         id="tspan3">e</tspan><tspan
+         style="stroke:#55d400"
+         id="tspan4">n</tspan><tspan
+         style="stroke:#338000"
+         id="tspan5">ho</tspan><tspan
+         style="stroke:#338000"
+         id="tspan6">r</tspan><tspan
+         style="stroke:#338000"
+         id="tspan7">t</tspan><tspan
+         style="stroke:#338000"
+         id="tspan8">i</tspan></tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Camada 3" />
+</svg>
