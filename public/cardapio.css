@@ -11,6 +11,7 @@ body {
     background-color: #f5f5dc; /* Cor de fundo semelhante a papel envelhecido */
     color: #4b3621; /* Cor de texto marrom escuro */
     line-height: 1.6;
+    padding-bottom: 60px; /* Espaço para o rodapé fixo */
 }
 
 /* Estilos do cabeçalho */
@@ -62,6 +63,19 @@ main {
     object-fit: cover;
     border-radius: 8px;
     border: 3px solid #556b2f; /* Borda verde escura */
+    background-color: #fff; /* Fundo branco para imagens com transparência */
+}
+
+/* Fallback para imagens ausentes */
+.produto img[src*="padrao.jpg"] {
+    background-color: #eee;
+    padding: 10px;
+    font-size: 14px;
+    color: #777;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Estilos do nome do produto */
@@ -101,3 +115,21 @@ footer {
     bottom: 0;
     font-family: 'Georgia', serif;
     border-top: 5px solid #3d4a26; /* Borda mais escura */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .produto {
+        width: 45%; /* Dois produtos por linha em telas menores */
+    }
+}
+
+@media (max-width: 480px) {
+    .produto {
+        width: 100%; /* Um produto por linha em telas muito pequenas */
+    }
+
+    header {
+        font-size: 1.5em; /* Reduz o tamanho do título em telas pequenas */
+    }
+}
