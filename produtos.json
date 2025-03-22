@@ -183,19 +183,19 @@
         "nome": "Pera Portuguesa",
         "codigo": "7997963",
         "preco": "R$ 8,00/kg",
-        "imagem": "pera_portuguesa.jpg"
+        "imagem": "peraportuguesa.jpg"
     },
     {
         "nome": "Pera Importada",
         "codigo": "1851914",
         "preco": "R$ 9,00/kg",
-        "imagem": "pera_importada.jpg"
+        "imagem": "peraimportada.jpg"
     },
     {
         "nome": "Pera Asiática",
         "codigo": "5266935",
         "preco": "R$ 7,50/kg",
-        "imagem": "pera_asiatica.jpg"
+        "imagem": "peraasiatica.jpg"
     },
     {
         "nome": "Pêssego Importado",
@@ -213,7 +213,7 @@
         "nome": "Pinha Tropical",
         "codigo": "12390",
         "preco": "R$ 12,00/kg",
-        "imagem": "pinha_tropical.jpg"
+        "imagem": "pinhatropical.jpg"
     },
     {
         "nome": "Romã",
@@ -225,13 +225,13 @@
         "nome": "Uva Importada Red Globe",
         "codigo": "1719966",
         "preco": "R$ 12,00/kg",
-        "imagem": "uva_importada_red_globe.jpg"
+        "imagem": "uvaimportredglobe.png"
     },
     {
         "nome": "Uva Itália Nacional",
         "codigo": "1661",
         "preco": "R$ 10,00/kg",
-        "imagem": "uva_italia_nacional.jpg"
+        "imagem": "uvaitalianacional.jpg"
     },
     {
         "nome": "Uva Nacional Betânia",
@@ -243,19 +243,19 @@
         "nome": "Manga Tommy",
         "codigo": "1806921",
         "preco": "R$ 6,50/kg",
-        "imagem": "manga_tommy.jpg"
+        "imagem": "mangatommy.jpg"
     },
     {
         "nome": "Manga Espada",
         "codigo": "20325942",
         "preco": "R$ 7,00/kg",
-        "imagem": "manga_espada.jpg"
+        "imagem": "mangaespada.jpg"
     },
     {
         "nome": "Manga Palmer",
         "codigo": "3718922",
         "preco": "R$ 6,00/kg",
-        "imagem": "manga_palmer.jpg"
+        "imagem": "mangapalmer.jpg"
     },
     {
         "nome": "Maracujá Tropical",
