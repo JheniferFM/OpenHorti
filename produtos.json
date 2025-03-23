@@ -201,13 +201,13 @@
         "nome": "Pêssego Importado",
         "codigo": "14725919",
         "preco": "R$ 10,00/kg",
-        "imagem": "pessego_importado.jpg"
+        "imagem": "pessegoimportado.jpeg"
     },
     {
         "nome": "Pêssego Nacional",
         "codigo": "1854993",
         "preco": "R$ 8,00/kg",
-        "imagem": "pessego_nacional.jpg"
+        "imagem": "pessego_nacional.jpeg"
     },
     {
         "nome": "Pinha Tropical",
@@ -219,7 +219,7 @@
         "nome": "Romã",
         "codigo": "71002",
         "preco": "R$ 15,00/kg",
-        "imagem": "roma.jpg"
+        "imagem": "roma.jpeg"
     },
     {
         "nome": "Uva Importada Red Globe",
@@ -231,13 +231,13 @@
         "nome": "Uva Itália Nacional",
         "codigo": "1661",
         "preco": "R$ 10,00/kg",
-        "imagem": "uvaitalianacional.jpg"
+        "imagem": "uvaitalianacional.jpeg"
     },
     {
-        "nome": "Uva Nacional Betânia",
+        "nome": "Uva Nac Benitaka",
         "codigo": "9246",
         "preco": "R$ 9,00/kg",
-        "imagem": "uva_nacional_betania.jpg"
+        "imagem": "uvanacbenitaka.jpeg"
     },
     {
         "nome": "Manga Tommy",
@@ -261,31 +261,31 @@
         "nome": "Maracujá Tropical",
         "codigo": "1832917",
         "preco": "R$ 8,00/kg",
-        "imagem": "maracuja_tropical.jpg"
+        "imagem": "maracuja_tropical.jpeg"
     },
     {
         "nome": "Melão Orange",
         "codigo": "7683974",
         "preco": "R$ 5,00/kg",
-        "imagem": "melao_orange.jpg"
+        "imagem": "melao_orange.webp"
     },
     {
         "nome": "Melão Pele de Sapo",
         "codigo": "20710925",
         "preco": "R$ 6,00/kg",
-        "imagem": "melao_pele_de_sapo.jpg"
+        "imagem": "melao_pele_de_sapo.jpeg"
     },
     {
         "nome": "Melão Redinha",
         "codigo": "2829953",
         "preco": "R$ 5,50/kg",
-        "imagem": "melao_redinha.jpg"
+        "imagem": "melao_redinha.jpeg"
     },
     {
         "nome": "Melão Amarelo",
         "codigo": "5181903",
         "preco": "R$ 4,50/kg",
-        "imagem": "melao_amarelo.jpg"
+        "imagem": "melao_amarelo.jpeg"
     },
     {
         "nome": "Mexerica Ponkan",
