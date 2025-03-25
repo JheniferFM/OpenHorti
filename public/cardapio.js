@@ -17,7 +17,7 @@ async function carregarProdutos() {
             const imagemSrc = `../ImgFrutas/${produto.imagem}`;
 
             div.innerHTML = `
-                <img src="${imagemSrc}" alt="${produto.nome}" onerror="this.src='../ImgFrutas/sem_imagem.jpg';">
+                <img src="${imagemSrc}" alt="${produto.nome}" onerror="this.src='../ImgFrutas/erro.jpeg';">
                 <h2>${produto.nome}</h2>
                 <p>${produto.preco}</p>
                 <svg class="barcode"></svg>
