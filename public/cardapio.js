@@ -31,7 +31,7 @@ async function carregarProdutos() {
                 lineColor: "#4b3621", // Cor marrom escura
                 width: 2,
                 height: 50,
-                displayValue: false
+                displayValue: true
             });
         });
     } catch (error) {
