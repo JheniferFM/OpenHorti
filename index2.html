@@ -5,22 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo de Hortifrúti</title>
     <link rel="stylesheet" href="./cardapio.css">
-    <script src="./cardapio.js"></script>
+    <script src="./pesquisa_atualizado.js"></script>
 </head>
 <body>
     <header>
-        <h1>OpenHorti (Em Teste)</h1>
+        <h1>OpenHorti Pesquisa (Em Teste)</h1>
         <h2>Ultima atualizaçao em 27/03/2025 05:07 Hrs</h2>
         <button onclick="clearAndReload()">Atualizar</button>
         <button onclick="increaseSize()">Ampliar</button>
         <button onclick="decreaseSize()">Diminuir</button>
-        <a href="index2.html">
-            <button>Abrir Pagina de pesquisa</button>
+        <a href="index.html">
+            <button>Voltar a pagina inicial</button>
         </a>
-        
     </header>
 
     <main>
+        <div id="search-container">
+            <input type="text" id="search-input" placeholder="Buscar produto..." />
+        </div>
         <section class="produtos">
             <!-- Os produtos serão carregados aqui dinamicamente -->
         </section>

@@ -4,6 +4,21 @@
     --produto-padding: 20px;
     --produto-font-size: 1.2em;
 }
+#search-container {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
 
 * {
     margin: 0;
