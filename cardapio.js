@@ -1,7 +1,7 @@
 async function carregarProdutos() {
     try {
         // Carrega o arquivo JSON
-        const response = await fetch('../produtos.json');
+        const response = await fetch('./produtos-itf.json');
         if (!response.ok) {
             throw new Error('Erro ao carregar os produtos');
         }
@@ -24,15 +24,36 @@ async function carregarProdutos() {
             `;
             container.appendChild(div);
 
-            // Gera o código de barras para o produto
-            const barcode = div.querySelector('.barcode');
-            JsBarcode(barcode, produto.codigo, {
-                format: "CODE128",
-                lineColor: "#4b3621", // Cor marrom escura
-                width: 2,
-                height: 50,
-                displayValue: true
-            });
+            let padrao = produto.format;
+
+            const padraoPermitidos = {
+                "ITF": () => {
+                    const barcode = div.querySelector('.barcode');
+                    JsBarcode(barcode, produto.codigo, {
+                        format: "ITF",
+                        lineColor: "#4b3621", // Cor marrom escura
+                        width: 2,
+                        height: 50,
+                        displayValue: true
+                    })
+                },
+
+                "CODE128": () => {
+                    const barcode = div.querySelector('.barcode');
+                    JsBarcode(barcode, produto.codigo, {
+                        format: "CODE128",
+                        lineColor: "#4b3621", // Cor marrom escura
+                        width: 2,
+                        height: 50,
+                        displayValue: true
+                    })
+                }
+            };
+            if (padraoPermitidos[produto.format]) {
+                padraoPermitidos[produto.format]();
+            } else {
+                console.warn("Item:", produto.nome, " possui codigo com padrao diferente de ITF e CODE128!", "\nPadrao fornecido: ", produto.format);
+            }
         });
     } catch (error) {
         console.error('Erro:', error);

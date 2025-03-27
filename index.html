@@ -4,11 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo de Hortifrúti</title>
-    <link rel="stylesheet" href="cardapio.css">
+    <link rel="stylesheet" href="./cardapio.css">
+    <script src="./cardapio.js"></script>
 </head>
 <body>
     <header>
-        <h1>OpenHorti</h1>
+        <h1>OpenHorti (Em Teste)</h1>
+        <h2>Ultima atualizaçao em 27/03/2025 04:07 Hrs</h2>
+        <button onclick="clearAndReload()">Atualizar</button>
+        <button onclick="increaseSize()">Ampliar</button>
+        <button onclick="decreaseSize()">Diminuir</button>
     </header>
 
     <main>
@@ -18,12 +23,42 @@
     </main>
 
     <footer>
-        <p>&copy; 2023 Hortifrúti Fresh</p>
+        <p>&copy; Grupo SigmaJ </p>
     </footer>
 
     <!-- Biblioteca para gerar códigos de barras -->
     <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
     <!-- Script JavaScript personalizado -->
-    <script src="cardapio.js"></script>
+    <script>
+        function clearAndReload() {
+            // Delete cookies
+            document.cookie.split(";").forEach(cookie => {
+                const eqPos = cookie.indexOf("=");
+                const name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+                document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+            });
+            // "Cache-busting" reload by adding a random query string
+            const url = window.location.href.split('?')[0];
+            window.location.href = url + "?refresh=" + new Date().getTime();
+        }
+        function increaseSize() {
+            const currentWidth = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-width'));
+            const currentPadding = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-padding'));
+            const currentFontSize = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-font-size'));
+            // Increment each property by a fixed amount
+            document.documentElement.style.setProperty('--produto-width', `${currentWidth + 20}px`);
+            document.documentElement.style.setProperty('--produto-padding', `${currentPadding + 5}px`);
+            document.documentElement.style.setProperty('--produto-font-size', `${currentFontSize + 0.1}em`);
+        }
+        function decreaseSize() {
+            const currentWidth = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-width'));
+            const currentPadding = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-padding'));
+            const currentFontSize = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--produto-font-size'));
+            // Decrement each property by a fixed amount
+            document.documentElement.style.setProperty('--produto-width', `${currentWidth - 20}px`);
+            document.documentElement.style.setProperty('--produto-padding', `${currentPadding - 5}px`);
+            document.documentElement.style.setProperty('--produto-font-size', `${currentFontSize - 0.1}em`);
+        }
+    </script>
 </body>
 </html>

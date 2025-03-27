@@ -1,0 +1,1248 @@
+[
+    {
+        "nome": "Abacate",
+        "format": "ITF",
+        "codigo": "00000001632935",
+        "preco": "R$ 7,00/kg",
+        "imagem": "abacate.jpg"
+    },
+    {
+        "nome": "Avocado",
+        "codigo": "00000004814974",
+        "preco": "R$ 10,00/kg",
+        "imagem": "avocado.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Ameixa Nacional",
+        "codigo": "00000000001637",
+        "preco": "R$ 8,00/kg",
+        "imagem": "ameixaNacional.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Ameixa Importada",
+        "codigo": "00000005606912",
+        "preco": "R$ 12,00/kg",
+        "imagem": "ameixaImportada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Atemoia",
+        "codigo": "00000000035858",
+        "preco": "R$ 15,00/kg",
+        "imagem": "atemoia.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Nanica",
+        "codigo": "00000001643973",
+        "preco": "R$ 3,50/kg",
+        "imagem": "bananaNanica.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Prata",
+        "codigo": "00000001646951",
+        "preco": "R$ 4,00/kg",
+        "imagem": "bananaPrata.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Maçã",
+        "codigo": "00000001661910",
+        "preco": "R$ 4,50/kg",
+        "imagem": "bananaMaca.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Terra",
+        "codigo": "00000004808915",
+        "preco": "R$ 5,00/kg",
+        "imagem": "bananaTerra.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Pacovan",
+        "codigo": "00000012657966",
+        "preco": "R$ 5,50/kg",
+        "imagem": "banana_pacovan.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Caqui Fuyu",
+        "codigo": "00000000021843",
+        "preco": "R$ 6,00/kg",
+        "imagem": "caquiFuyu.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Caqui Rama Forte",
+        "codigo": "00000000021700",
+        "preco": "R$ 6,50/kg",
+        "imagem": "caquiRamaForte.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Carambola",
+        "codigo": "00000009109927",
+        "preco": "R$ 7,00/kg",
+        "imagem": "carambola.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Caju Tropical",
+        "codigo": "00000013080961",
+        "preco": "R$ 8,00/kg",
+        "imagem": "cajuTropical.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Coco Seco Tropical",
+        "codigo": "00000001650967",
+        "preco": "R$ 6,00/un",
+        "imagem": "cocoSeco.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Goiaba Vermelha Tropical",
+        "codigo": "00000006609989",
+        "preco": "R$ 4,00/kg",
+        "imagem": "goiabaVermelha.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Kiwi",
+        "codigo": "00000001788974",
+        "preco": "R$ 10,00/kg",
+        "imagem": "kiwi.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Kiwi Sun Gold",
+        "codigo": "00000073384961",
+        "preco": "R$ 12,00/kg",
+        "imagem": "kiwisunglod.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Laranja Pera",
+        "codigo": "00000002488999",
+        "preco": "R$ 4,00/kg",
+        "imagem": "laranjapera.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Laranja Importada",
+        "codigo": "00000008353964",
+        "preco": "R$ 5,00/kg",
+        "imagem": "laranjaimportada.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Laranja Lima",
+        "codigo": "00000000001494",
+        "preco": "R$ 4,50/kg",
+        "imagem": "larabjalima.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Limão Taiti Tropical",
+        "codigo": "00000001805943",
+        "preco": "R$ 3,00/kg",
+        "imagem": "limãotaiti.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Limão Siciliano",
+        "codigo": "00000053849902",
+        "preco": "R$ 8,00/kg",
+        "imagem": "limãosiciliano.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Red Importada",
+        "codigo": "00000001819977",
+        "preco": "R$ 6,00/kg",
+        "imagem": "macaredimport.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Nacional Fuji",
+        "codigo": "00000001827936",
+        "preco": "R$ 5,50/kg",
+        "imagem": "macanacfuji.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Nacional Gala",
+        "codigo": "00000001825917",
+        "preco": "R$ 5,00/kg",
+        "imagem": "macanacgala.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Verde Importada",
+        "codigo": "00000005603934",
+        "preco": "R$ 7,00/kg",
+        "imagem": "macaverde.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mamão Formosa",
+        "codigo": "00000004786949",
+        "preco": "R$ 4,00/kg",
+        "imagem": "mamaoformosa.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mamão Havaí/Papaya",
+        "codigo": "00000001815939",
+        "preco": "R$ 5,00/kg",
+        "imagem": "Mamã Papaia.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Manga Rosa",
+        "codigo": "00000000020326",
+        "preco": "R$ 6,00/kg",
+        "imagem": "mangarosa.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pera Portuguesa",
+        "codigo": "00000007997963",
+        "preco": "R$ 8,00/kg",
+        "imagem": "peraportuguesa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pera Importada",
+        "codigo": "00000001851914",
+        "preco": "R$ 9,00/kg",
+        "imagem": "peraimportada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pera Asiática",
+        "codigo": "00000005266935",
+        "preco": "R$ 7,50/kg",
+        "imagem": "peraasiatica.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pêssego Importado",
+        "codigo": "00000014725919",
+        "preco": "R$ 10,00/kg",
+        "imagem": "pessegoimportado.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pêssego Nacional",
+        "codigo": "00000001854993",
+        "preco": "R$ 8,00/kg",
+        "imagem": "pessego_nacional.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pinha Tropical",
+        "codigo": "00000000012390",
+        "preco": "R$ 12,00/kg",
+        "imagem": "pinhatropical.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Romã",
+        "codigo": "00000000071002",
+        "preco": "R$ 15,00/kg",
+        "imagem": "roma.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Importada Red Globe",
+        "codigo": "00000001719986",
+        "preco": "R$ 12,00/kg",
+        "imagem": "uvaimportredglobe.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Itália Nacional",
+        "codigo": "00000000001881",
+        "preco": "R$ 10,00/kg",
+        "imagem": "uvaitalianacional.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Nac Benitaka",
+        "codigo": "00000000009246",
+        "preco": "R$ 9,00/kg",
+        "imagem": "uvanacbenitaka.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Manga Tommy",
+        "codigo": "00000001808921",
+        "preco": "R$ 6,50/kg",
+        "imagem": "mangatommy.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Manga Espada",
+        "codigo": "00000020325942",
+        "preco": "R$ 7,00/kg",
+        "imagem": "mangaespada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Manga Palmer",
+        "codigo": "00000003718922",
+        "preco": "R$ 6,00/kg",
+        "imagem": "mangapalmer.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maracujá Tropical",
+        "codigo": "00000001832917",
+        "preco": "R$ 8,00/kg",
+        "imagem": "maracuja_tropical.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melão Orange",
+        "codigo": "00000007683974",
+        "preco": "R$ 5,00/kg",
+        "imagem": "melao_orange.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melão Pele de Sapo",
+        "codigo": "00000020710925",
+        "preco": "R$ 6,00/kg",
+        "imagem": "melao_pele_de_sapo.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melão Redinha",
+        "codigo": "00000002829953",
+        "preco": "R$ 5,50/kg",
+        "imagem": "melao_redinha.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melão Amarelo",
+        "codigo": "00000005181903",
+        "preco": "R$ 4,50/kg",
+        "imagem": "melao_amarelo.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mexerica Ponkan",
+        "codigo": "00000001859990",
+        "preco": "R$ 3,50/kg",
+        "imagem": "mexiricaPonkan.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mexerica Comum",
+        "codigo": "00000004177984",
+        "preco": "R$ 3,00/kg",
+        "imagem": "mexiricaComum.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mexerica Morgot",
+        "codigo": "00000001861993",
+        "preco": "R$ 4,00/kg",
+        "imagem": "mexiricaMorgot.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Nectarina Importada",
+        "codigo": "00000003394946",
+        "preco": "R$ 10,00/kg",
+        "imagem": "nectarinaImportada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Nectarina Nacional",
+        "codigo": "00000000001844",
+        "preco": "R$ 8,00/kg",
+        "imagem": "nectarinaNacional.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pitaya",
+        "codigo": "00000053845965",
+        "preco": "R$ 15,00/kg",
+        "imagem": "pitaya.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abacaxi Tropical",
+        "codigo": "00000001078181",
+        "preco": "R$ 5,00/un",
+        "imagem": "abacaxi_tropical.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Coco Verde Fruta",
+        "codigo": "00000000165114",
+        "preco": "R$ 6,00/un",
+        "imagem": "coco_verde_fruta.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melancia Tropical Grande",
+        "codigo": "00000001075102",
+        "preco": "R$ 6,00/kg",
+        "imagem": "melanciaTropical.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melancia Sugar Baby",
+        "codigo": "00000010679945",
+        "preco": "R$ 5,50/kg",
+        "imagem": "melanciaSugarBaby.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Morango",
+        "codigo": "00000002058910",
+        "preco": "R$ 8,00/kg",
+        "imagem": "morango.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Sweet Jubilee",
+        "codigo": "00000055701901",
+        "preco": "R$ 12,00/kg",
+        "imagem": "uvaSweetJubilee.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Red Globe",
+        "codigo": "00000016878974",
+        "preco": "R$ 10,00/kg",
+        "imagem": "uvaRedGlobe.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Thompson",
+        "codigo": "00000036877914",
+        "preco": "R$ 11,00/kg",
+        "imagem": "uvaThompson.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Vitória",
+        "codigo": "00000055702961",
+        "preco": "R$ 12,00/kg",
+        "imagem": "uvaVitoria.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Benitaka",
+        "codigo": "00000036880971",
+        "preco": "R$ 10,00/kg",
+        "imagem": "uvanacbenitaka.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Rubi",
+        "codigo": "00000041633991",
+        "preco": "R$ 9,00/kg",
+        "imagem": "uvaRubi.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Itália",
+        "codigo": "00000036879933",
+        "preco": "R$ 10,00/kg",
+        "imagem": "uvaItalia.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Crimson",
+        "codigo": "00000036876167",
+        "preco": "R$ 11,00/kg",
+        "imagem": "uvaCrimson.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Uva Niagara BDJ",
+        "codigo": "00000040599907",
+        "preco": "R$ 9,00/kg",
+        "imagem": "uvaNiagaraBdj.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Italiana",
+        "codigo": "00000000001868",
+        "preco": "R$ 4,00/kg",
+        "imagem": "aboboraItalia.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Jacaré",
+        "codigo": "00000002093926",
+        "preco": "R$ 5,00/kg",
+        "imagem": "aboboraJacare.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Brasileira",
+        "codigo": "00000000001892",
+        "preco": "R$ 4,50/kg",
+        "imagem": "aboboraBrasileira.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Moranga",
+        "codigo": "00000001896924",
+        "preco": "R$ 5,50/kg",
+        "imagem": "abobora_moranga.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Paulista",
+        "codigo": "00000072516916",
+        "preco": "R$ 6,00/kg",
+        "imagem": "aboboraPaulista.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Japonesa",
+        "codigo": "00000001894905",
+        "preco": "R$ 6,00/kg",
+        "imagem": "aboboraJaponesa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alho Granel",
+        "codigo": "00000021933966",
+        "preco": "R$ 12,00/kg",
+        "imagem": "alho_granel.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Batata Lavada",
+        "codigo": "00000014691938",
+        "preco": "R$ 3,00/kg",
+        "imagem": "batataLavada.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Batata Doce",
+        "codigo": "00000001908912",
+        "preco": "R$ 4,00/kg",
+        "imagem": "batata_doce.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Beterraba",
+        "codigo": "00000001616916",
+        "preco": "R$ 3,50/kg",
+        "imagem": "beterraba.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Berinjela Comum",
+        "codigo": "00000001900931",
+        "preco": "R$ 5,00/kg",
+        "imagem": "beringelaComum.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Brócolis Japonês",
+        "codigo": "00000036808904",
+        "preco": "R$ 8,00/kg",
+        "imagem": "brocolisJapones.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cara Paulista",
+        "codigo": "00000001917949",
+        "preco": "R$ 4,00/kg",
+        "imagem": "cara_paulista.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cebola Atacadão",
+        "codigo": "00000014692998",
+        "preco": "R$ 3,00/kg",
+        "imagem": "cebolaAtacadao.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cebola Roxa",
+        "codigo": "00000036041905",
+        "preco": "R$ 4,00/kg",
+        "imagem": "cebolaRoxa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cenoura",
+        "codigo": "00000001920905",
+        "preco": "R$ 2,50/kg",
+        "imagem": "cenoura.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Chuchu",
+        "codigo": "00000001923990",
+        "preco": "R$ 3,00/kg",
+        "imagem": "chuchu.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Couve-Flor",
+        "codigo": "00000062183922",
+        "preco": "R$ 6,00/kg",
+        "imagem": "couveFlor.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Gengibre",
+        "codigo": "00000001497919",
+        "preco": "R$ 10,00/kg",
+        "imagem": "gengibre.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Inhame da Costa",
+        "codigo": "00000001502992",
+        "preco": "R$ 5,00/kg",
+        "imagem": "inhameDaCosta.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Jiló",
+        "codigo": "00000001499938",
+        "preco": "R$ 4,00/kg",
+        "imagem": "jilo.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mandioca-Aipim",
+        "codigo": "00000001506929",
+        "preco": "R$ 3,50/kg",
+        "imagem": "mandiocaAipim.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mandioquinha",
+        "codigo": "00000001504910",
+        "preco": "R$ 6,00/kg",
+        "imagem": "mandioquinha.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maxixe",
+        "codigo": "00000004779949",
+        "preco": "R$ 3,00/kg",
+        "imagem": "maxixe.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pepino Comum",
+        "codigo": "00000001514906",
+        "preco": "R$ 2,50/kg",
+        "imagem": "pepinoComun.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pepino Japonês",
+        "codigo": "00000001516925",
+        "preco": "R$ 4,00/kg",
+        "imagem": "pepinoJapones.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pepino Caipira",
+        "codigo": "00000000001525",
+        "preco": "R$ 3,00/kg",
+        "imagem": "pepinoCaipira.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimenta Cambuci",
+        "codigo": "00000009147939",
+        "preco": "R$ 7,00/kg",
+        "imagem": "pimenta_cambuci.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimentão Amarelo",
+        "codigo": "00000001532944",
+        "preco": "R$ 5,00/kg",
+        "imagem": "pimentao_amarelo.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimentão Verde",
+        "codigo": "00000001527963",
+        "preco": "R$ 4,00/kg",
+        "imagem": "pimentao_verde.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimentão Vermelho",
+        "codigo": "00000001529982",
+        "preco": "R$ 5,50/kg",
+        "imagem": "pimentao_vermelho.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Quiabo",
+        "codigo": "00000001674967",
+        "preco": "R$ 6,00/kg",
+        "imagem": "quiabo.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Repolho Branco",
+        "codigo": "00000001677945",
+        "preco": "R$ 3,00/kg",
+        "imagem": "repolho_branco.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Repolho Roxo",
+        "codigo": "00000001683986",
+        "preco": "R$ 4,00/kg",
+        "imagem": "repolho_roxo.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Tomate Italiano",
+        "codigo": "00000033159945",
+        "preco": "R$ 5,00/kg",
+        "imagem": "tomate_italiano1.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Tomate Salada",
+        "codigo": "00000001688983",
+        "preco": "R$ 4,50/kg",
+        "imagem": "tomate_salada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Tomate Grape",
+        "codigo": "00000034113974",
+        "preco": "R$ 8,00/kg",
+        "imagem": "tomate_grape.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Vagem Mac",
+        "codigo": "00000001703933",
+        "preco": "R$ 5,00/kg",
+        "imagem": "vagem_mac.avif",
+        "format": "ITF"
+    },
+    {
+        "nome": "Nozes com Casca",
+        "codigo": "00000000071003",
+        "preco": "R$ 20,00/kg",
+        "imagem": "nozes_com_cascas.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Castanha",
+        "codigo": "00000007751911",
+        "preco": "R$ 15,00/kg",
+        "imagem": "castanhas.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pinhão Tropical",
+        "codigo": "00000002475942",
+        "preco": "R$ 12,00/kg",
+        "imagem": "pinão_tropical.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Acelga",
+        "codigo": "00000001606132",
+        "preco": "R$ 3,00/kg",
+        "imagem": "acelga.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Agrião Hidropônico",
+        "codigo": "00000010519197",
+        "preco": "R$ 4,00/kg",
+        "imagem": "agriao_hidroponico.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Lisa",
+        "codigo": "00000001581188",
+        "preco": "R$ 2,50/kg",
+        "imagem": "alface_lisa.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Crespa Roxa",
+        "codigo": "00000047248101",
+        "preco": "R$ 3,00/kg",
+        "imagem": "alface_crespa_roxa.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Mimosa",
+        "codigo": "00000004846139",
+        "preco": "R$ 3,50/kg",
+        "imagem": "alface_momosa.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Mexicana",
+        "codigo": "00000004739148",
+        "preco": "R$ 4,00/kg",
+        "imagem": "alface_mexicana.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Americana Hidro",
+        "codigo": "00000010524178",
+        "preco": "R$ 5,00/kg",
+        "imagem": "alface_americana.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Crespa Hidropônico",
+        "codigo": "00000005810140",
+        "preco": "R$ 4,50/kg",
+        "imagem": "alaface_crespa_hidro.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alface Crespa",
+        "codigo": "00000001592125",
+        "preco": "R$ 3,00/kg",
+        "imagem": "alface_crespa.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alecrim",
+        "codigo": "00000027208173",
+        "preco": "R$ 6,00/kg",
+        "imagem": "alecrim.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Agrião",
+        "codigo": "00000001605173",
+        "preco": "R$ 3,50/kg",
+        "imagem": "agriao.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Almeirão",
+        "codigo": "00000001609110",
+        "preco": "R$ 3,00/kg",
+        "imagem": "almeirao.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alho Poró",
+        "codigo": "00000008300183",
+        "preco": "R$ 5,00/kg",
+        "imagem": "alho_poro.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Coentro",
+        "codigo": "00000001622169",
+        "preco": "R$ 4,00/kg",
+        "imagem": "coentro.png",
+        "format": "ITF"
+    },
+    {
+        "nome": "Chicória",
+        "codigo": "00000005025103",
+        "preco": "R$ 3,50/kg",
+        "imagem": "chicoria.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cheiro Verde",
+        "codigo": "00000001730113",
+        "preco": "R$ 2,50/kg",
+        "imagem": "cheiro_verde.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cebolinha",
+        "codigo": "00000007093128",
+        "preco": "R$ 3,00/kg",
+        "imagem": "cebolinha.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Couve-Flor",
+        "codigo": "00000001624188",
+        "preco": "R$ 6,00/kg",
+        "imagem": "couve_flor.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Brócolis Japonês",
+        "codigo": "00000001619106",
+        "preco": "R$ 8,00/kg",
+        "imagem": "brocolis_apones.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Couve Brócolis",
+        "codigo": "00000001625147",
+        "preco": "R$ 7,00/kg",
+        "imagem": "couve_brocolis.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Couve Manteiga Picada",
+        "codigo": "00000022053123",
+        "preco": "R$ 5,00/kg",
+        "imagem": "couve_manteiga_picada.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Couve Manteiga",
+        "codigo": "00000001626106",
+        "preco": "R$ 4,00/kg",
+        "imagem": "couve_manteiga.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Espinafre",
+        "codigo": "00000001731179",
+        "preco": "R$ 3,50/kg",
+        "imagem": "espinafre.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Hortelã",
+        "codigo": "00000001735116",
+        "preco": "R$ 4,00/kg",
+        "imagem": "hortela.jpeg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Moyashi",
+        "codigo": "00000001740192",
+        "preco": "R$ 5,00/kg",
+        "imagem": "moyashe.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Manjericão Maço",
+        "codigo": "00000020127191",
+        "preco": "R$ 3,00/maço",
+        "imagem": "manjericao_maco.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Mostarda",
+        "codigo": "00000003916198",
+        "preco": "R$ 3,50/kg",
+        "imagem": "mostarda.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Nabo",
+        "codigo": "00000001742116",
+        "preco": "R$ 3,00/kg",
+        "imagem": "nabo.webp",
+        "format": "ITF"
+    },
+    {
+        "nome": "Rúcula Hidropônica",
+        "codigo": "00000010502185",
+        "preco": "R$ 4,50/kg",
+        "imagem": "rucula_hidroponica.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Rúcula",
+        "codigo": "00000001746154",
+        "preco": "R$ 4,00/kg",
+        "imagem": "rucula.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Salsa/Cheiro Verde",
+        "codigo": "00000008088145",
+        "preco": "R$ 2,50/kg",
+        "imagem": "salsa_cheiro_verde.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Salsa/Cheiro Verde (Outro)",
+        "codigo": "00000005012147",
+        "preco": "R$ 2,50/kg",
+        "imagem": "salsa_cheiro_verde_outro.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Repolho Branco",
+        "codigo": "00000001676986",
+        "preco": "R$ 3,00/kg",
+        "imagem": "repolho_branco.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Rabanete",
+        "codigo": "00000001745195",
+        "preco": "R$ 3,50/kg",
+        "imagem": "rabanete.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Milho Verde",
+        "codigo": "00000012794911",
+        "preco": "R$ 5,00/kg",
+        "imagem": "milho_verde.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Milho Verde Espiga",
+        "codigo": "00000018407983",
+        "preco": "R$ 6,00/kg",
+        "imagem": "milho_verde_espiga.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Terra (18 kg)",
+        "codigo": "00000001660157",
+        "preco": "R$ 50,00/cx",
+        "imagem": "banana_terra_18kg.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Prata (Caixa)",
+        "codigo": "00000012315193",
+        "preco": "R$ 45,00/cx",
+        "imagem": "banana_prata_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Banana Nanica (Caixa)",
+        "codigo": "00000012312902",
+        "preco": "R$ 40,00/cx",
+        "imagem": "banana_nanica_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Coco Seco Tropical (Saco)",
+        "codigo": "00000010871164",
+        "preco": "R$ 30,00/saco",
+        "imagem": "coco_seco_tropical_saco.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Laranja Pera (20 kg)",
+        "codigo": "00000003863907",
+        "preco": "R$ 60,00/cx",
+        "imagem": "laranja_pera_20kg.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Limão Taiti Tropical (20 kg)",
+        "codigo": "00000001804196",
+        "preco": "R$ 50,00/cx",
+        "imagem": "limao_taiti_tropical_20kg.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Limão Taiti (3 kg)",
+        "codigo": "00000029668946",
+        "preco": "R$ 10,00/kg",
+        "imagem": "limao_taiti_3kg.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Laranja Pera (5 kg)",
+        "codigo": "00000024122105",
+        "preco": "R$ 15,00/kg",
+        "imagem": "laranja_pera_5kg.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maracujá Azedo (Caixa)",
+        "codigo": "00000001976171",
+        "preco": "R$ 20,00/cx",
+        "imagem": "maracuja_azedo_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Nacional Fuji (Caixa)",
+        "codigo": "00000001826189",
+        "preco": "R$ 25,00/cx",
+        "imagem": "maca_nacional_fuji_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Maçã Nacional Gala (Caixa)",
+        "codigo": "00000001822151",
+        "preco": "R$ 22,00/cx",
+        "imagem": "maca_nacional_gala_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pera Importada (Caixa)",
+        "codigo": "00000001985190",
+        "preco": "R$ 30,00/cx",
+        "imagem": "pera_importada_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Melão Amarelo",
+        "codigo": "00000009666103",
+        "preco": "R$ 4,50/kg",
+        "imagem": "melao_amarelo.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Alho Caixa",
+        "codigo": "00000010626236",
+        "preco": "R$ 15,00/cx",
+        "imagem": "alho_caixa.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Abóbora Japicabotia",
+        "codigo": "00000002149184",
+        "preco": "R$ 5,00/kg",
+        "imagem": "abobora_japicabotia.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Batata Lavada",
+        "codigo": "00000011826976",
+        "preco": "R$ 3,00/kg",
+        "imagem": "batata_lavada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "HF. Batata Lavada",
+        "codigo": "00000011827147",
+        "preco": "R$ 3,50/kg",
+        "imagem": "hf_batata_lavada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Batata Bolinha",
+        "codigo": "00000043600950",
+        "preco": "R$ 4,00/kg",
+        "imagem": "batata_bolinha.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Batata Doce",
+        "codigo": "00000001907165",
+        "preco": "R$ 4,00/kg",
+        "imagem": "batata_doce.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Beterraba",
+        "codigo": "00000001902168",
+        "preco": "R$ 3,50/kg",
+        "imagem": "beterraba.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Berinjela Comum",
+        "codigo": "00000001899114",
+        "preco": "R$ 5,00/kg",
+        "imagem": "berinjela_comum.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cenoura",
+        "codigo": "00000001919180",
+        "preco": "R$ 2,50/kg",
+        "imagem": "cenoura.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Chuchu",
+        "codigo": "00000001921183",
+        "preco": "R$ 3,00/kg",
+        "imagem": "chuchu.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Cebola Atacadão",
+        "codigo": "00000019658143",
+        "preco": "R$ 3,00/kg",
+        "imagem": "cebola_atacadao.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimentão Verde",
+        "codigo": "00000001526115",
+        "preco": "R$ 4,00/kg",
+        "imagem": "pimentao_verde.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pimentão Vermelho",
+        "codigo": "00000015595983",
+        "preco": "R$ 5,50/kg",
+        "imagem": "pimentao_vermelho.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Pepino Comum",
+        "codigo": "00000001512100",
+        "preco": "R$ 2,50/kg",
+        "imagem": "pepino_comum.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Tomate Salada",
+        "codigo": "00000002179906",
+        "preco": "R$ 4,50/kg",
+        "imagem": "tomate_salada.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Tomate Italiano",
+        "codigo": "00000033160983",
+        "preco": "R$ 5,00/kg",
+        "imagem": "tomate_italiano.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Repolho Branco",
+        "codigo": "00000005578117",
+        "preco": "R$ 3,00/kg",
+        "imagem": "repolho_branco.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Ovo Branco GD",
+        "codigo": "00000021831168",
+        "preco": "R$ 12,00/cx",
+        "imagem": "ovo_branco_gd.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Ovo Branco Extra",
+        "codigo": "00000011060908",
+        "preco": "R$ 14,00/cx",
+        "imagem": "ovo_branco_extra.jpg",
+        "format": "ITF"
+    },
+    {
+        "nome": "Ovo Branco GD*",
+        "codigo": "00000011088158",
+        "preco": "R$ 13,00/cx",
+        "imagem": "ovo_branco_gd_estrela.jpg",
+        "format": "ITF"
+    }
+]
