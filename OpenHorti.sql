@@ -8,35 +8,35 @@ CREATE TABLE produtos (
 
 INSERT INTO produtos (nome, codigo, preco, imagem)
 VALUES 
-    ('Abacate', '00000001632935', 'R$ 7,00/kg', 'abacate.jpg')
-    ('Avocado', '00000004814974', 'R$ 10,00/kg', 'avocado.jpg')
-    ('Ameixa Nacional', '00000001637932', 'R$ 8,00/kg', 'ameixaNacional.jpg')
-    ('Ameixa Importada', '00000005606912', 'R$ 12,00/kg', 'ameixaImportada.jpg')
-    ('Atemoia', '00000035858919', 'R$ 15,00/kg', 'atemoia.jpg')
-    ('Banana Nanica', '00000001643973', 'R$ 3,50/kg', 'bananaNanica.jpg')
-    ('Banana Prata', '00000001646951', 'R$ 4,00/kg', 'bananaPrata.jpg')
-    ('Banana Maçã', '00000001661910', 'R$ 4,50/kg', 'bananaMaca.jpg')
-    ('Banana Terra', '00000004808915', 'R$ 5,00/kg', 'bananaTerra.jpg')
-    ('Banana Pacovan', '00000012657986', 'R$ 5,50/kg', 'banana_pacovan.jpg')
-    ('Caqui Fuyu', '00000000021843', 'R$ 6,00/kg', 'caquiFuyu.png')
-    ('Caqui Rama Forte', '00000000021700', 'R$ 6,50/kg', 'caquiRamaForte.png')
-    ('Carambola', '00000009109927', 'R$ 7,00/kg', 'carambola.jpg')
-    ('Caju Tropical', '00000013080961', 'R$ 8,00/kg', 'cajuTropical.jpg')
-    ('Coco Seco Tropical', '00000001650967', 'R$ 6,00/un', 'cocoSeco.jpg')
-    ('Goiaba Vermelha Tropical', '00000006609989', 'R$ 4,00/kg', 'goiabaVermelha.png')
-    ('Kiwi', '00000001788974', 'R$ 10,00/kg', 'kiwi.jpeg')
-    ('Kiwi Sun Gold', '00000073384961', 'R$ 12,00/kg', 'kiwisunglod.jpeg')
+    ('Abacate', '00000001632935', 'R$ 7,00/kg', 'abacate.jpg'),
+    ('Avocado', '00000004814974', 'R$ 10,00/kg', 'avocado.jpg'),
+    ('Ameixa Nacional', '00000001637932', 'R$ 8,00/kg', 'ameixaNacional.jpg'),
+    ('Ameixa Importada', '00000005606912', 'R$ 12,00/kg', 'ameixaImportada.jpg'),
+    ('Atemoia', '00000035858919', 'R$ 15,00/kg', 'atemoia.jpg'),
+    ('Banana Nanica', '00000001643973', 'R$ 3,50/kg', 'bananaNanica.jpg'),
+    ('Banana Prata', '00000001646951', 'R$ 4,00/kg', 'bananaPrata.jpg'),
+    ('Banana Maçã', '00000001661910', 'R$ 4,50/kg', 'bananaMaca.jpg'),
+    ('Banana Terra', '00000004808915', 'R$ 5,00/kg', 'bananaTerra.jpg'),
+    ('Banana Pacovan', '00000012657986', 'R$ 5,50/kg', 'banana_pacovan.jpg'),
+    ('Caqui Fuyu', '00000000021843', 'R$ 6,00/kg', 'caquiFuyu.png'),
+    ('Caqui Rama Forte', '00000000021700', 'R$ 6,50/kg', 'caquiRamaForte.png'),
+    ('Carambola', '00000009109927', 'R$ 7,00/kg', 'carambola.jpg'),
+    ('Caju Tropical', '00000013080961', 'R$ 8,00/kg', 'cajuTropical.jpg'),
+    ('Coco Seco Tropical', '00000001650967', 'R$ 6,00/un', 'cocoSeco.jpg'),
+    ('Goiaba Vermelha Tropical', '00000006609989', 'R$ 4,00/kg', 'goiabaVermelha.png'),
+    ('Kiwi', '00000001788974', 'R$ 10,00/kg', 'kiwi.jpeg'),
+    ('Kiwi Sun Gold', '00000073384961', 'R$ 12,00/kg', 'kiwisunglod.jpeg'),
     ('Laranja Pera', '00000002488999', 'R$ 4,00/kg', 'laranjapera.jpeg'),
     ('Laranja Importada', '00000008353964', 'R$ 5,00/kg', 'laranjaimportada.jpeg'),
     ('Laranja Lima', '00000000001494', 'R$ 4,50/kg', 'larabjalima.jpeg'),
     ('Limão Taiti Tropical', '00000001805943', 'R$ 3,00/kg', 'limãotaiti.jpeg'),
     ('Limão Siciliano', '00000053649902', 'R$ 8,00/kg', 'limãosiciliano.jpeg'),
-    ('Maçã Red Importada', '00000001819977', 'R$ 6,00/kg', 'macaredimport.jpeg')
+    ('Maçã Red Importada', '00000001819977', 'R$ 6,00/kg', 'macaredimport.jpeg'),
     ('Maçã Nacional Fuji', '00000001827936', 'R$ 5,50/kg', 'macanacfuji.jpeg'),
     ('Maçã Nacional Gala', '00000001825917', 'R$ 5,00/kg', 'macanacgala.jpeg'),
     ('Maçã Verde Importada', '00000005603934', 'R$ 7,00/kg', 'macaverde.jpeg'),
     ('Mamão Formosa', '00000004786949', 'R$ 4,00/kg', 'mamaoformosa.jpeg'),
-    ('Mamão Havaí/Papaya', '00000001815939', 'R$ 5,00/kg', 'Mamã Papaia.jpeg')
+    ('Mamão Havaí/Papaya', '00000001815939', 'R$ 5,00/kg', 'Mamã Papaia.jpeg'),
     ('Manga Rosa', '00000000020326', 'R$ 6,00/kg', 'mangarosa.jpeg'),
     ('Pera Portuguesa', '00000007997963', 'R$ 8,00/kg', 'peraportuguesa.jpg'),
     ('Pera Importada', '00000001851914', 'R$ 9,00/kg', 'peraimportada.jpg'),
