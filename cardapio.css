@@ -4,21 +4,6 @@
     --produto-padding: 20px;
     --produto-font-size: 1.2em;
 }
-#search-container {
-    position: sticky;
-    top: 0;
-    background: white;
-    z-index: 10;
-    padding: 10px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-#search-input {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-}
-
 
 * {
     margin: 0;
@@ -39,11 +24,19 @@ body {
 header {
     background-color: #556b2f; /* Verde escuro */
     color: #fff;
-    padding: 20px 0;
+    padding: 15px 0; /* Diminui o padding para um cabeçalho mais compacto */
     text-align: center;
     font-family: 'Georgia', serif;
-    font-size: 2em;
+    font-size: 1.8em; /* Diminui o tamanho da fonte do título */
     border-bottom: 5px solid #3d4a26; /* Borda mais escura */
+}
+
+/* Títulos menores */
+header h1 {
+    font-size: 1.6em; /* Reduz o título principal */
+}
+header h2 {
+    font-size: 1em; /* Reduz o subtítulo */
 }
 
 /* Estilos da seção principal */
@@ -51,7 +44,7 @@ main {
     padding: 20px;
 }
 
-/* Estilos da lista de produtos INATIVO*/
+/* Estilos da lista de produtos INATIVO */
 .oldprodutos {
     display: flex;
     flex-direction: column;
@@ -59,6 +52,7 @@ main {
     gap: 20px;
     justify-content: center;
 }
+
 /* Estilos da lista de produtos */
 .produtos {
     display: grid;
@@ -69,7 +63,6 @@ main {
     margin: 0 auto; /* Centraliza horizontalmente */
     max-width: 90%; /* Define uma largura máxima para o conteúdo */
 }
-
 
 /* Estilos de cada produto */
 .produto {
@@ -114,7 +107,7 @@ main {
 
 /* Estilos do nome do produto */
 .produto h2 {
-    font-size: 1.2em;
+    font-size: 1.1em; /* Diminui o tamanho do nome do produto */
     margin: 10px 0;
     color: #4b3621; /* Cor de texto marrom escuro */
     font-family: 'Georgia', serif;
@@ -165,4 +158,67 @@ footer {
     header {
         font-size: 1.5em; /* Reduz o tamanho do título em telas pequenas */
     }
+}
+
+/* Estilos do campo de pesquisa */
+#search-container {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-bottom: 2px solid #556b2f; /* Borda verde escura */
+}
+
+#search-input {
+    width: 100%;
+    padding: 8px; /* Diminui o padding */
+    font-size: 14px; /* Diminui o tamanho da fonte */
+    border: 2px solid #8b4513; /* Borda marrom */
+    border-radius: 8px; /* Bordas arredondadas */
+    background-color: #fff8dc; /* Cor de fundo similar aos produtos */
+    color: #4b3621; /* Cor de texto marrom escuro */
+    transition: border 0.3s ease; /* Efeito suave para a borda */
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: #556b2f; /* Borda verde escura ao focar */
+}
+
+/* Estilos dos botões */
+button {
+    background-color: #2a7223; /* Verde vibrante para o botão */
+    color: white;
+    border: 2px solid #183109; /* Cor da borda combinando com o fundo */
+    border-radius: 8px; /* Bordas arredondadas */
+    padding: 8px 16px; /* Diminui o padding para botões mais compactos */
+    font-size: 0.9em; /* Diminui o tamanho da fonte */
+    font-family: 'Roboto', sans-serif; /* Fonte limpa e moderna */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Efeito suave no hover */
+    box-shadow: 0px 4px 8px rgba(88, 170, 17, 0.3); /* Sombra suave para um efeito de profundidade */
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+button:hover {
+    background-color: #633d16; /* Verde mais escuro para o efeito de hover */
+    border-color: #145709; /* Borda escurecendo para combinar */
+    transform: translateY(-3px); /* Efeito de elevação ao passar o mouse */
+}
+
+/* Efeito quando o botão é pressionado */
+button:active {
+    background-color: #337d11; /* Verde mais escuro quando pressionado */
+    border-color: #55b637; /* Borda também escurecendo */
+    transform: translateY(1px); /* Efeito de "pressionado" no clique */
+}
+
+/* Efeito para botões desabilitados */
+button:disabled {
+    background-color: #c6c6c6; /* Cinza para botões desabilitados */
+    border-color: #a1a1a1; /* Borda mais suave */
+    cursor: not-allowed; /* Desabilita o cursor */
+    box-shadow: none; /* Remove a sombra */
 }
